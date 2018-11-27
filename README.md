@@ -6,6 +6,14 @@ Repositorio para recibir as achégadas da comunidade mClon ó proxecto:
 
 Todas as contribucións que se fagan ó proxecto estarán suxeitas á mesma licencia que o propio proxecto (ver mais abaixo).
 
+## Ficha de proposta
+Se queres facer unha achégada, crea unha subcarpeta co nome/título da tua proposta e inclue un ficheiro README ca seguinte información
+
+  * nome/título da proposta
+  * autor (quen/quenes crearon a proposta)
+  * descripción (que fai, cómo funciona, cómo usalo)
+  * notas (se queres engadir algo máis)
+
 ## Páxina do proxecto
 
 Toda a información sobre o proxecto está en https://mclon.org
