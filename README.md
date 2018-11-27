@@ -11,7 +11,7 @@ Se queres facer unha achégada, crea unha subcarpeta co nome/título da tua prop
 
   * nome/título da proposta
   * autor (quen/quenes crearon a proposta)
-  * descripción (que fai, cómo funciona, cómo usalo)
+  * descripción (qué fai, cómo funciona, cómo usalo)
   * notas (se queres engadir algo máis)
 
 ## Páxina do proxecto
