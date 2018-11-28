@@ -12,7 +12,8 @@ Se queres facer unha contribución, crea unha carpeta neste repositorio co nome/
   * Nome/título da proposta
   * Autoría
   * Descrición (que é, que fai, como funciona, como usalo, etc.)
-  * Crea as subcarpetas que necesites para subir os ficheiros (deseños 3D, esquema electrónico, programas, fotos, etc.)
+
+Crea as subcarpetas que necesites para subir os ficheiros (deseños 3D, esquema electrónico, programas, fotos, etc.)
 
 ## Páxina do proxecto
 
