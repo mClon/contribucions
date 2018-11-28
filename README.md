@@ -13,11 +13,11 @@ Se queres facer unha contribución, crea unha carpeta neste repositorio co nome/
   * Autoría
   * Descrición (que é, que fai, como funciona, como usalo, etc.)
 
-Despois sube os ficheiros que queiras compartir:deseños 3D, esquema electrónico, programas, fotos, etc. Podes crear subcarpetas se o precisas.
+Despois sube os ficheiros que queiras compartir: deseños 3D, esquema electrónico, programas, fotos, etc. Podes crear subcarpetas se o precisas.
 
 ## Páxina do proxecto
 
-Toda a información sobre o proxecto está en https://mclon.org
+Toda a información sobre o proxecto está en https://mclon.org e irá ampliándose coas achegas da comunidade.
 
 ## LICENCIA / LICENSE
 
