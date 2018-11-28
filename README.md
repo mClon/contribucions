@@ -1,18 +1,18 @@
-# Contribucións da comunidade mClon
-Repositorio para recibir as achégadas da comunidade mClon ó proxecto:
+# Contribucións 
+Repositorio para recibir as achegas da comunidade ao proxecto mClon:
 
-  * se usas git, fai un pull-request a este repositorio para achegarnos as túas propostas
+  * se usas git, fai un pull-request a este repositorio para achegarnos as túas contribucións
   * se non usas git, podes contactar connosco directamente via correo-e
 
-Todas as contribucións que se fagan ó proxecto estarán suxeitas á mesma licencia que o propio proxecto (ver mais abaixo).
+Todas as contribucións que se fagan ao proxecto estarán suxeitas á mesma licencia que o propio proxecto (ver máis abaixo).
 
 ## Ficha de proposta
-Se queres facer unha achégada, crea unha subcarpeta co nome/título da tua proposta e inclue un ficheiro README ca seguinte información
+Se queres facer unha contribución, crea unha carpeta neste repositorio co nome/título da túa proposta e inclúe un ficheiro README.md coa seguinte información
 
-  * nome/título da proposta
-  * autor (quen/quenes crearon a proposta)
-  * descripción (qué fai, cómo funciona, cómo usalo)
-  * notas (se queres engadir algo máis)
+  * Nome/título da proposta
+  * Autoría
+  * Descrición (que é, que fai, como funciona, como usalo, etc.)
+  * Crea as subcarpetas que necesites para subir os ficheiros (deseños 3D, esquema electrónico, programas, fotos, etc.)
 
 ## Páxina do proxecto
 
