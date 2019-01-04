@@ -13,6 +13,7 @@ Podéis utilizar toda la documentación como mejor os parezca.
 Si queréis algo más, no dudéis en contactarnos.
 
 Un fuerte abrazo y nuestra enhorabuena por el proyecto.
+
 Miguel Angel Bruna.
 Asociación expeduca Formación
 
