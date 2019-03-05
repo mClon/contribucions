@@ -4,6 +4,8 @@ Me consta que muchos profesores trabajamos con este programa, y he querido añad
 
 El diseño inluye todas las partes del mClon a excepción de las ruedas. Las modificaciones son mínimas con respecto al original, algunos retoques en los soportes de los sensores, y los taladros en el chasis para sujetar el portapilas para dos pilas 18650.
 
+Publicado en Thingiverse https://www.thingiverse.com/thing:3470411
+
 Un saludo a todos y enhorabuena por el gran trabajo realizado.
 
 Juan Carlos Lópes Sánchez.
